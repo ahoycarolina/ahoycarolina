@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahoycarolina
-- 👀 I’m interested in plants, cooking, and machine learning, and coding
+- 👀 I’m interested in plants, vegan cooking, machine learning, and beautiful data visualization
 - 🌱 I’m currently learning data analytics and data structures
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me vasquez.98.carolina@gmail.com
